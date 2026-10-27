@@ -1,0 +1,94 @@
+[
+  {
+    "id": "std-101",
+    "studentId": "MOK-2026-0001",
+    "fullName": "David Chukwuma Adeleke",
+    "normalizedName": "adeleke chukwuma david",
+    "gender": "Male",
+    "currentClass": "Grade 10A",
+    "email": "david.adeleke@students.mok.edu",
+    "parentEmail": "adeleke.parent@gmail.com",
+    "accountStatus": "active",
+    "createdAt": "2026-01-10T08:00:00Z",
+    "lastSyncedAt": "2026-03-15T10:00:00Z",
+    "resultsHistory": [
+      {
+        "id": "res-old-1",
+        "studentId": "MOK-2026-0001",
+        "academicSession": "2025/2026",
+        "term": "Term 3",
+        "examName": "Promotional Examination",
+        "className": "Grade 9A",
+        "scores": {
+          "Mathematics": 88,
+          "English": 79,
+          "Physics": 84,
+          "Chemistry": 82
+        },
+        "totalScore": 333,
+        "averageScore": 83.25,
+        "overallGrade": "A1",
+        "classRank": 2,
+        "uploadedAt": "2026-07-20T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "std-102",
+    "studentId": "MOK-2026-0002",
+    "fullName": "Amina Zainab Bello",
+    "normalizedName": "amina bello zainab",
+    "gender": "Female",
+    "currentClass": "Grade 10A",
+    "email": "amina.bello@students.mok.edu",
+    "parentEmail": "bello.zainab.mom@gmail.com",
+    "accountStatus": "active",
+    "createdAt": "2026-01-10T08:00:00Z"
+  },
+  {
+    "id": "std-103",
+    "studentId": "MOK-2026-0003",
+    "fullName": "Michael Ethan Johnson",
+    "normalizedName": "ethan johnson michael",
+    "gender": "Male",
+    "currentClass": "Grade 10A",
+    "email": "michael.johnson@students.mok.edu",
+    "parentEmail": "ejohnson.work@outlook.com",
+    "accountStatus": "active",
+    "createdAt": "2026-01-10T08:00:00Z"
+  },
+  {
+    "id": "std-104",
+    "studentId": "MOK-2026-0004",
+    "fullName": "Fatima Maryam Yusuf",
+    "normalizedName": "fatima maryam yusuf",
+    "gender": "Female",
+    "currentClass": "Grade 10B",
+    "email": "fatima.yusuf@students.mok.edu",
+    "parentEmail": "yusuf.family@yahoo.com",
+    "accountStatus": "active",
+    "createdAt": "2026-01-12T09:30:00Z"
+  },
+  {
+    "id": "std-105",
+    "studentId": "MOK-2026-0005",
+    "fullName": "Oluwaseun Brian Peters",
+    "normalizedName": "brian oluwaseun peters",
+    "gender": "Male",
+    "currentClass": "Grade 10B",
+    "email": "brian.peters@students.mok.edu",
+    "accountStatus": "active",
+    "createdAt": "2026-01-12T09:30:00Z"
+  },
+  {
+    "id": "std-106",
+    "studentId": "MOK-2026-0006",
+    "fullName": "Grace Chidinma Okonkwo",
+    "normalizedName": "chidinma grace okonkwo",
+    "gender": "Female",
+    "currentClass": "Grade 11 Science",
+    "email": "grace.okonkwo@students.mok.edu",
+    "accountStatus": "active",
+    "createdAt": "2026-01-15T11:00:00Z"
+  }
+]
